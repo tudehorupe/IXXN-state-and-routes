@@ -72,7 +72,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: #282828;
+  /* background: #282828; */
 }
 
 .title {

@@ -8,6 +8,12 @@ export default function Nav() {
             <Link to="/home" className="nav-link">Home</Link>
             <Link to="/pageone" className="nav-link">Page 1</Link>
             <Link to="/welcome" className="nav-link">Page 2</Link>
+            <Link to="/colourpage" className="nav-link">Colour Page</Link>
+            <Link to="/clock" className="nav-link">Clock</Link>
+            {/* <Link to="/clock" className="nav-link">Dynamic</Link> */}
+
+
+
 
         </div>
     )
