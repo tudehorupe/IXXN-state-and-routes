@@ -97,3 +97,15 @@ span {
   cursor: none;
 }
 
+
+
+.dark-mode{
+  background-color: black;
+  color: white;
+}
+
+.normal-mode{
+  background-color: white;
+  color: black;
+}
+
